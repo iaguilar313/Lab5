@@ -1,0 +1,7 @@
+c:\users\irvin\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+c:\users\irvin\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+c:\users\irvin\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+c:\users\irvin\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+c:\users\irvin\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+c:\users\irvin\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+c:\users\irvin\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
