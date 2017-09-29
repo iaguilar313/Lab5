@@ -27,7 +27,7 @@ namespace Lab5
                     Console.WriteLine("You Rolled");
 
                     int Dice1 = rnd(1, diceface);
-                    int Dice2 = rnd(1, diceface)-1;
+                    int Dice2 = rnd(1, diceface);
 
                     Console.WriteLine(Dice1); 
                     Console.WriteLine(Dice2);
@@ -55,7 +55,7 @@ namespace Lab5
 
         public static int rnd(int Numb1, int diceface)
         {
-            Random R = new Random();
+            Random R = new Random(Guid.NewGuid().GetHashCode());
 
             int result = R.Next(1, diceface + 1);
         
